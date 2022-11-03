@@ -166,4 +166,6 @@ def my_prg():
     obj_pbl.publish()
 
 
-my_prg()
+if __name__ == '__main__':
+    my_prg()
+
